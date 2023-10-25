@@ -85,8 +85,8 @@ const ProfileComplete = () => {
   };
 
   return (
-    <div className=" w-full h-full flex md:flex-row flex-col">
-      <div className="w-full md:w-1/2 bg-gray-200   p-5 flex flex-col items-center gap-10">
+    <div className=" w-full h-full flex md:flex-row flex-col bg-gray-200">
+      <div className="w-full md:w-1/2  p-5 flex flex-col items-center gap-10">
         <div className="p-2  shadow-md flex flex-col items-center">
 
         <h1 className="text-3xl font-bold">Head Office</h1>

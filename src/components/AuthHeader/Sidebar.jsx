@@ -13,7 +13,7 @@ import {AiOutlineMenuFold,AiOutlineMenuUnfold} from "react-icons/ai"
 import { FaChartBar, FaBars } from "react-icons/fa";
 import { Link, useLocation } from "react-router-dom";
 import { AiOutlineMenu } from "react-icons/ai";
-
+import "./styles.css"
 function getItem(label, key, icon, children, type) {
   return {
     key,
